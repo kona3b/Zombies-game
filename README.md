@@ -10,6 +10,6 @@ TODO: Sounds, more graphics, levels, storymode, etc...
 
 SYNOPSIS: There is a zombie virus spreading and you have the cure! Can you cure everyone before there are no more healthy people left?
 
-Try it in a browser: https://kona3b.github.io/
+Try it in a browser: https://kona3b.github.io/zombies.html
 
 ![](https://github.com/kona3b/Zombies-game/blob/main/Zombies.gif)
